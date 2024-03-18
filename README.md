@@ -9,7 +9,8 @@
 
 - 📫 Contact me at **elginpw@gmail.com**
 
-- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1DVHeZUUPVNqPnPwBVmA8SXsX0x9JhVJh/view?usp=sharing)
+- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1MVPJ7TvDHhzGsiLjEeRQPCwYq23eVE16/view?usp=sharing)
+
 
 - ⚡ Fun fact **I enjoy photography!**
 
