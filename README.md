@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **An internship experience!**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Golang and ETL pipelines**
 
 - 📫 Contact me at **elginpw@gmail.com**
 
