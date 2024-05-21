@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Elgin</h1>
-<h3 align="center">A Computer Science Undergraduate!</h3>
+<h3 align="center">I am a Computer Science Undergraduate!</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
 
