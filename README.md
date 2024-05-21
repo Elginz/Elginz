@@ -3,7 +3,7 @@
 
 <img align = "right" alt = "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🔭 I’m currently looking for **An internship experience!**
+- 🔭 I’m currently looking for **New courses to try**
 
 - 🌱 I’m currently learning **Golang and ETL pipelines**
 
