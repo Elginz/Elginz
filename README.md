@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently looking for **New courses to try**
 
-- 🌱 I’m currently learning **Golang and ETL pipelines**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 Contact me at **elginpw@gmail.com**
 
-- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/109ow-HO_r5thQ4MCskzddyf0mBuIL-l2/view?usp=sharing)
+- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1AooyKbHwr3MzV4A4Z0ctH49nKT4VpVho/view?usp=sharing)
 
 
 - ⚡ Fun fact **I enjoy Film photography!**
