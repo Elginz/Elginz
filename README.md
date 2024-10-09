@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **New courses to try**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Android & IOS**
 
 - 📫 Contact me at **elginpw@gmail.com**
 
