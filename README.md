@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **New courses to try**
 
-- 🌱 I’m currently learning **TON development and App Development**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 Contact me at **elginpw@gmail.com**
 
