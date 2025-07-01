@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently looking for **Software Internship**
 
-- 🌱 I’m currently learning **React Native**
-
 - 📫 Contact me at **elginpw@gmail.com**
 
 - 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1DFsKklZHLnmOzoKrnpCmyWJIJFkfo4R_/view?usp=sharing)
