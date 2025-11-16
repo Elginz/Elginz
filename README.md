@@ -7,7 +7,7 @@
 
 - 📫 Contact me at **elginpw@gmail.com**
 
-- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1eAobpm0KLItyxQmobAIP_Q-uL_v8q-du/view?usp=sharing)
+- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1696fJgdtD8GtIY2puQj_6ntwc-kCpnUj/view?usp=sharing)
 
 
 - ⚡ Fun fact **I enjoy Film photography!**
