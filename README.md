@@ -1,14 +1,13 @@
 <h1 align="center">Hey! I'm Elgin</h1>
-<h3 align="center">I am a Computer Science Undergraduate!</h3>
+<h3 align="center">I am a Computer Science Graduate!</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🔭 I’m currently looking for **Software Internship**
+- 🔭 I’m currently looking for **New experiences**
 
 - 📫 Contact me at **elginpw@gmail.com**
 
-- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1696fJgdtD8GtIY2puQj_6ntwc-kCpnUj/view?usp=sharing)
-
+- 📄 Know about my experiences [Over here!](https://drive.google.com/file/d/1cBHcd_EX_voS0MwTt30yYrFfCtFH3FXI/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy Film photography!**
 
