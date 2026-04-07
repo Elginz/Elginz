@@ -1,4 +1,4 @@
-# Elgin
+# Hey, Im Elgin
 
 CS grad. Somewhere in the IT industry now.
 
