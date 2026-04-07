@@ -4,7 +4,7 @@
 
 - 📫 elginpw@gmail.com
 - 📄 [Resume](https://drive.google.com/file/d/1cBHcd_EX_voS0MwTt30yYrFfCtFH3FXI/view?usp=sharing)
-- 📷 I record 360 videos for when VR gets better
+- 📷 I record 360 videos hoping that VR gets better
   
 ---
 
