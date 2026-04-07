@@ -1,6 +1,6 @@
-# Hey, Im Elgin
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:1b4332&height=180&section=header&text=Elgin&fontSize=72&fontColor=e8d5b7&animation=fadeIn&fontAlignY=38&desc=CS%20Grad.%20IT%20Industry.%20Film%20Photography.&descAlignY=58&descSize=16)
 
-CS grad. Somewhere in the IT industry now.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8BAF9F&width=435&lines=IT+industry+Survivalist.;CS+Grad.;Film+Photography+Enjoyer.)](https://git.io/typing-svg)
 
 - 📫 elginpw@gmail.com
 - 📄 [Resume](https://drive.google.com/file/d/1cBHcd_EX_voS0MwTt30yYrFfCtFH3FXI/view?usp=sharing)
@@ -43,4 +43,7 @@ CS grad. Somewhere in the IT industry now.
 <a href="https://langfuse.com/"><img src="https://avatars.githubusercontent.com/u/116061162" width="40" height="40"/></a>
 <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/dev
+<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:1a1a2e&height=120&section=footer)
