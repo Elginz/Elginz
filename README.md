@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:1b4332&height=180&section=header&text=Elgin&fontSize=72&fontColor=e8d5b7&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20and%20ML%20Graduate&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8BAF9F&width=435&lines=IT+industry+Survivalist.;CS+Grad.;Film+Photography+Enjoyer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8BAF9F&width=435&lines=IT+industry+Survivalist.;CS+Grad.;Into+AI+as+well.)](https://git.io/typing-svg)
 
 - 📫 elginpw@gmail.com
 - 📄 [Resume](https://drive.google.com/file/d/1cBHcd_EX_voS0MwTt30yYrFfCtFH3FXI/view?usp=sharing)
-- 📷 Photography
-
+- 📷 I record 360 videos for when VR gets better
+  
 ---
 
 ### Connect
