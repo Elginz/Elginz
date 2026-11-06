@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8BAF9F&width=435&lines=IT+industry+Survivalist.;CS+Grad.;Into+AI+as+well.)](https://git.io/typing-svg)
 
 - 📫 elginpw@gmail.com
-- 📷 I record 360 videos hoping that VR gets better
+- 📷 I take photos on my trusty X100VI
   
 ---
 
